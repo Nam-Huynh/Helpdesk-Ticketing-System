@@ -16,7 +16,7 @@ Tech Stack:
 - Java(Console Application)
 
 How to run: 
-git clone https://github.com/YOUR_USERNAME/ticketing-system-java.git
-cd ticketing-system-java
-javac Ticket.java
-java Ticket
+- git clone https://github.com/YOUR_USERNAME/ticketing-system-java.git
+- cd ticketing-system-java
+- javac Ticket.java
+- java Ticket
